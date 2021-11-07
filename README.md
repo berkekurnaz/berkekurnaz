@@ -1,4 +1,8 @@
 ### Hi there 👋
+- :computer: I'm a full stack software developer from Turkey. I'm currently working at @bundlenews.
+- :blush: I love node.js, .net core, mongodb, vue.js and flutter. Sometimes I develop web apps and sometimes develop mobile applications. I believe that a developer should have at least 101 knowledge in all areas. 
+- :heart: I love open-source projects. I want to upload more open source projects soon.
+
 
 <!--
 **berkekurnaz/berkekurnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
